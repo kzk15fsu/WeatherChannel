@@ -4,22 +4,21 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+December 13th, 2018
 
 ### Student Name:  
-(First and Last Name)
+Kalien Keys
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+This assignment is enhancing an API-centered web application to expand the Seminole Weather Channel.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://kzk15fsu.github.io/WeatherChannel/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
-4. (Briefly describe a lesson/concept learned in this lesson.)
-5. (Briefly describe a lesson/concept learned in this lesson.)
+1. Obtained an API key from API XU.
+2. Use an API key for authentication.
+3. Utilized API XU.
+4. Parsed JSON data from an HTTP response message.
+5. Use AJAX methods and properties that allowed web application response from the client's inputs.
 
